@@ -1,0 +1,6 @@
+name: Yone_GUI_test
+version: ${project.version}
+main: yoneyone.yone.yo.yone_gui_test.Yone_GUI_test
+commands:
+  open:
+    description: ＧＵＩを開きます
